@@ -1,9 +1,15 @@
 # Portfolio Analityka Danych - Adam Chorzelski
 
-Witaj w moim portfolio! Ten projekt dokumentuje moją podróż i rozwój umiejętności w kierunku stanowiska Junior Data Analyst / BI Developer. Repozytorium jest aktywnie rozwijane zgodnie z moim planem nauki i będzie zawierać praktyczne projekty z użyciem SQL, Power BI i Pythona.
+Witaj w moim portfolio! Ten projekt dokumentuje moją drogę w kierunku analizy danych i BI. Zbieram tu swoje ćwiczenia, mini-projekty i gotowe rozwiązania w SQL, Excelu/Power Query, Power BI i Pythonie. Repozytorium będzie rozwijane na bieżąco 😊
+
+## 📁 Struktura
+- `/sql` – zapytania SQL, ćwiczenia, zadania rekrutacyjne
+- `/excel` – pliki z czyszczeniem danych, Power Query
+- `/pbi` – raporty Power BI
+- `/python-eda` – analizy eksploracyjne w Pythonie
+- `/docs` – notatki tygodniowe, checklisty, podsumowania
 
 ### 🛠 Tech Stack
-
 - **SQL** (MS SQL Server / T-SQL)
 - **Power BI** (Power Query, DAX, Modelowanie Danych)
 - **Python** (Pandas, ETL)
@@ -11,11 +17,9 @@ Witaj w moim portfolio! Ten projekt dokumentuje moją podróż i rozwój umieję
 - **Git** / **GitHub**
 
 ### 📊 Projekty
-
 | Projekt                                   | Technologie                    | Status       |
 | ----------------------------------------- | ------------------------------ | ------------ |
 | **1. Analiza Sprzedaży AdventureWorks**   | SQL Server, Power BI, DAX, RLS | ⏳ W trakcie |
 | **2. Analiza Danych GUS (Wynagrodzenia)** | Python (ETL), Power BI         | 📋 Planowany |
 | **3. ...**                                | ...                            | 📋 Planowany |
 
-Zapraszam do śledzenia moich postępów!
