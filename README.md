@@ -1,5 +1,7 @@
 # Portfolio Analityka Danych - Adam Chorzelski
 
+## Szukam praktyk od marca 2026 (Śląsk / zdalnie)
+
 Witaj w moim portfolio! Ten projekt dokumentuje moją drogę w kierunku analizy danych i BI. Zbieram tu swoje ćwiczenia, mini-projekty i gotowe rozwiązania w SQL, Excelu/Power Query, Power BI i Pythonie. Repozytorium będzie rozwijane na bieżąco 😊
 
 ## 📁 Struktura
